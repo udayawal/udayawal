@@ -5,7 +5,7 @@
  <a href="https://www.linkedin.com/in/uday-awal-1023531aa">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <img src="https://tryhackme.com/badge/1310059">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/udayAwal.png" alt="TryHackMe">
  <a href="https://www.instagram.com/uday_awal_/">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
