@@ -5,7 +5,6 @@
  <a href="https://www.linkedin.com/in/uday-awal-1023531aa">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <img src="https://tryhackme-badges.s3.amazonaws.com/udayAwal.png" alt="TryHackMe">
  <a href="https://www.instagram.com/uday_awal_/">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  </a>
@@ -16,6 +15,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" />
      I am Uday Awal.
   </h1>
+</div>
+<div align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/udayAwal.png" alt="TryHackMe">
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
