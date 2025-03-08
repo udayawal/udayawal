@@ -60,7 +60,7 @@
 ## 🏆 TryHackMe Badge
 <p align="center">
   <a href="https://tryhackme.com/p/udayawal" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/1310059.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/udayAwal.png" alt="Your Image Badge" />
   </a>
 </p>
 
