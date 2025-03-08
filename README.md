@@ -6,7 +6,7 @@
 ## 🚀 About Me
 🎓 **Master’s in Information Systems Security** @ *Concordia University, Montreal (2024-2026)*  
 💼 **Former Information Security Analyst** @ *PrismCode Info Solutions*  
-🔍 **Passionate about Cybersecurity, Ethical Hacking, Blockchain, and Cloud Security**  
+🔍 **Passionate about Cybersecurity, Ethical Hacking, Cloud Security and Embedded Systems**  
 🎤 **Cybersecurity Instructor & Workshop Speaker**  
 🌐 **My Website:** [udayawal.com](https://your-website-link.com)  
 
@@ -14,7 +14,6 @@
 
 ## 🔥 My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Cybersecurity-%230076D6.svg?style=for-the-badge&logo=security&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud%20Security-%23007ACC.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Penetration%20Testing-%23FF6600.svg?style=for-the-badge&logo=kali-linux&logoColor=white">
@@ -24,12 +23,11 @@
 ---
 
 ## 📜 Certifications
-- ✅ [**CompTIA Security+ (SY0-601)**](https://www.comptia.org/certifications/security)  
-- ✅ [**Microsoft Security, Compliance, and Identity (SC-900)**](https://learn.microsoft.com/en-us/certifications/exams/sc-900/)  
-- ✅ [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
-- ✅ [**Azure AI Fundamentals (AI-900)**](https://learn.microsoft.com/en-us/certifications/exams/ai-900/)  
-- ✅ [**KPMG Lean Six Sigma Green Belt**](https://home.kpmg/xx/en/home/services/advisory/lean-six-sigma.html)  
-- ✅ [**Scrum Foundation Professional Certification (SFPC™)**](https://www.scrumstudy.com/)  
+- ✅ [**CompTIA Security+ (SY0-601)**](https://www.credly.com/badges/2b59298a-c61a-4ea1-bc94-a30da9b0dc42)  
+- ✅ [**Microsoft Security, Compliance, and Identity (SC-900)**](https://www.credly.com/badges/9d263659-1050-438e-adbd-cae401f0b5b3/linked_in_profile)  
+- ✅ [**Microsoft Azure Fundamentals (AZ-900)**](https://www.credly.com/badges/cb3105c4-fb96-4acc-b80c-c9b441d50851/linked_in_profile)  
+- ✅ [**Azure AI Fundamentals (AI-900)**](https://www.credly.com/badges/0f6c42b4-b392-4c3b-9095-ba54d47e49fd/public_url)  
+- ✅ [**Scrum Foundation Professional Certification (SFPC™)**](https://www.credly.com/badges/0c523eed-a910-4f03-8d4b-ca451a2c8c1a)  
 
 ---
 
@@ -57,7 +55,7 @@
 
 ---
 
-## 🏆 TryHackMe Badge
+## 🏆 TryHackMe 
 <p align="center">
   <a href="https://tryhackme.com/p/udayAwal" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/udayAwal.png" alt="Your Image Badge" />
