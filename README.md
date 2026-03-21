@@ -8,7 +8,7 @@
 💼 **Cybersecurity Analyst Intern** @ *Vosyn (May 2025 – Aug 2025)*  
 🎤 **Cybersecurity Instructor** @ *Varsity Tutors (Feb 2025 – Present)*  
 🔍 **Passionate about Cybersecurity, Ethical Hacking, Cloud Security, and Embedded Systems**  
-🌐 **My Website:** [udayawal.live](https://udayawal.live)  
+🌐 **My Website:** [UdayAwal](https://udayawal.github.io/web/)  
 
 ---
 
@@ -89,7 +89,7 @@
   <a href="mailto:udayawal11@gmail.com">
     <img src="https://img.shields.io/badge/Email-udayawal11%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://udayawal.live" target="_blank">
+  <a href="https://udayawal.github.io/web/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
